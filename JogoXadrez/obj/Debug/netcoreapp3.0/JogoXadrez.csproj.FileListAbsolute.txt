@@ -1,0 +1,11 @@
+C:\Users\laiz.araujo\Desktop\C# Udeny\12 - Projeto Jogo de Xadrez\JogoXadrez\JogoXadrez\bin\Debug\netcoreapp3.0\JogoXadrez.exe
+C:\Users\laiz.araujo\Desktop\C# Udeny\12 - Projeto Jogo de Xadrez\JogoXadrez\JogoXadrez\bin\Debug\netcoreapp3.0\JogoXadrez.deps.json
+C:\Users\laiz.araujo\Desktop\C# Udeny\12 - Projeto Jogo de Xadrez\JogoXadrez\JogoXadrez\bin\Debug\netcoreapp3.0\JogoXadrez.runtimeconfig.json
+C:\Users\laiz.araujo\Desktop\C# Udeny\12 - Projeto Jogo de Xadrez\JogoXadrez\JogoXadrez\bin\Debug\netcoreapp3.0\JogoXadrez.runtimeconfig.dev.json
+C:\Users\laiz.araujo\Desktop\C# Udeny\12 - Projeto Jogo de Xadrez\JogoXadrez\JogoXadrez\bin\Debug\netcoreapp3.0\JogoXadrez.dll
+C:\Users\laiz.araujo\Desktop\C# Udeny\12 - Projeto Jogo de Xadrez\JogoXadrez\JogoXadrez\bin\Debug\netcoreapp3.0\JogoXadrez.pdb
+C:\Users\laiz.araujo\Desktop\C# Udeny\12 - Projeto Jogo de Xadrez\JogoXadrez\JogoXadrez\obj\Debug\netcoreapp3.0\JogoXadrez.csprojAssemblyReference.cache
+C:\Users\laiz.araujo\Desktop\C# Udeny\12 - Projeto Jogo de Xadrez\JogoXadrez\JogoXadrez\obj\Debug\netcoreapp3.0\JogoXadrez.AssemblyInfoInputs.cache
+C:\Users\laiz.araujo\Desktop\C# Udeny\12 - Projeto Jogo de Xadrez\JogoXadrez\JogoXadrez\obj\Debug\netcoreapp3.0\JogoXadrez.AssemblyInfo.cs
+C:\Users\laiz.araujo\Desktop\C# Udeny\12 - Projeto Jogo de Xadrez\JogoXadrez\JogoXadrez\obj\Debug\netcoreapp3.0\JogoXadrez.dll
+C:\Users\laiz.araujo\Desktop\C# Udeny\12 - Projeto Jogo de Xadrez\JogoXadrez\JogoXadrez\obj\Debug\netcoreapp3.0\JogoXadrez.pdb
